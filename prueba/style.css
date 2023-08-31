@@ -1,0 +1,15 @@
+#poster {
+    height: 200px;
+    width: 300px;
+    transition: box-shadow .1, transfor;
+
+    background: 
+    url(https://bit.ly/3ZNdfW)
+    no-repeat
+    center;
+
+}
+
+#poster:hover {
+    box-shadow: 0px 0px 50px rgba(0,0,0,1);
+}
